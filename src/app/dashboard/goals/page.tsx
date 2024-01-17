@@ -67,7 +67,7 @@ const Goals = () => {
           </div>
           <div>
             <p className="mb-2 text-gray-700">
-              "Success is not final, failure is not fatal: It is the courage to continue that counts."
+              &quot;Success is not final, failure is not fatal: It is the courage to continue that counts.&quot;
             </p>
             <p className="text-gray-700">- Winston Churchill</p>
           </div>
@@ -86,7 +86,7 @@ const Goals = () => {
             />
           </div>
           <div>
-            <p className="mb-2 text-gray-700">You've achieved a milestone! Keep going.</p>
+            <p className="mb-2 text-gray-700">You have achieved a milestone! Keep going.</p>
             <p className="text-gray-700">Reward yourself for your hard work.</p>
           </div>
         </div>
@@ -99,7 +99,7 @@ const Goals = () => {
             />
           </div>
           <div>
-            <p className="mb-2 text-gray-700">You're unstoppable! Another achievement unlocked.</p>
+            <p className="mb-2 text-gray-700">You hare unstoppable! Another achievement unlocked.</p>
             <p className="text-gray-700">Celebrate your success journey.</p>
           </div>
         </div>
@@ -110,14 +110,14 @@ const Goals = () => {
       <div className="flex items-center mb-4">
         <FaMedal className="text-4xl text-band-primary mr-4" />
         <div>
-          <p className="mb-2 text-gray-700">Congratulations! You've earned a gold medal.</p>
+          <p className="mb-2 text-gray-700">Congratulations! You have earned a gold medal.</p>
           <p className="text-gray-700">Wear it proudly and keep aiming higher.</p>
         </div>
       </div>
       <div className="flex items-center">
         <FaTrophy className="text-4xl text-band-primary mr-4" />
         <div>
-          <p className="mb-2 text-gray-700">You're a champion! A trophy is waiting for you.</p>
+          <p className="mb-2 text-gray-700">You hare a champion! A trophy is waiting for you.</p>
           <p className="text-gray-700">Claim it and celebrate your victory.</p>
         </div>
       </div>
