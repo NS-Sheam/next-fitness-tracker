@@ -1,0 +1,8 @@
+.about-us {
+  background-image: url("../../../assets/images/about-us.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #434343;
+  background-blend-mode: overlay;
+}
